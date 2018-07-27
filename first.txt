@@ -5,3 +5,5 @@ EDIT: Adding text to test pull.
 EDIT: Adding text to test branches.
 
 EDIT: Adding third line of text.
+
+EDIT: Adding fourth line of text.
