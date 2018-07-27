@@ -1,5 +1,7 @@
-hello This is a tester file.
+This is a tester file.
 
 EDIT: Adding text to test pull.
 
 EDIT: Adding text to test branches.
+
+EDIT: Adding third line of text.
