@@ -25,8 +25,17 @@ def calculate(s):
     1
     >>> calculate(\'print("bad guy coming to hack")\')
     '''
-    # TODO = fill in this function
-    pass
+    
+    allowed_ch = ['0','1','2','3','4','5','6','7','8','9','*','+','-','/','(',')']
+
+    for ch in s:
+        if allowed_ch.count(ch) == 0:
+            result = None
+            break
+        else:
+            result = eval(s)
+
+    return result
 
 if __name__ == '__main__':
     import doctest
