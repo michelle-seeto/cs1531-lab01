@@ -1,4 +1,5 @@
 EDIT: Adding text to test conflict.
+EDIT: Adding second line.
 
 This is a tester file.
 
