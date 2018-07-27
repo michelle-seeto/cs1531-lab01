@@ -1,3 +1,5 @@
+EDIT: Adding text to test conflict.
+
 This is a tester file.
 
 EDIT: Adding text to test pull.
